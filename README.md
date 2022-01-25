@@ -16,5 +16,6 @@
 - [ ] python2 Janda.py
 
 ### Ini Menu Nya Njeng
+![IMG_20220125_081011](https://user-images.githubusercontent.com/98243315/150892624-a9c5b823-8323-4f4e-9509-8fd3856b0949.jpg)
 
 
