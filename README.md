@@ -8,8 +8,8 @@
 - [ ] pkg install python2 git
 - [ ] pip2 install requests mechanize
 - [ ] pip2 install futures bs4
-- [ ] git clone https://github.com/Kang-Toxic/Janda
 - [ ] rm -rf Janda
+- [ ] git clone https://github.com/Kang-Toxic/Janda
 - [ ] [cd]() Janda
 - [ ] ls
 - [ ] python2 [Janda.py]()
