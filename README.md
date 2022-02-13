@@ -1,7 +1,7 @@
 ### Thanks For
-- [Jeeck X Nano]()
-- [Moch Aang Ardiansyah-XD]()
-- [Ndrii Sans Yumasaa]()
+- [Haecker-FB]()
+- [Anchu HAECKER-FB]()
+- [CHANGCUTERS]()
 
 ### Instal Di Termux Ya Njeng
 - [ ] pkg update [&&]() pkg upgrade
@@ -11,19 +11,22 @@
 - [ ] rm -rf Janda
 - [ ] git clone https://github.com/Kang-Toxic/Janda
 - [ ] [cd]() Janda
-- [ ] ls
 - [ ] python2 [Janda.py]()
+- [ ] Haecker-FB
 
-### Ini Menu Nya Njeng
-![IMG_20220125_081011](https://user-images.githubusercontent.com/98243315/150892624-a9c5b823-8323-4f4e-9509-8fd3856b0949.jpg)
-
+### HAECKER FACEBOOK 
 ### Donasi
-- Dana : [083806858479]()
-- Pulsa : [081392979518]()
+`• Dana  : 082261310817`
 
-### Contac & Sosial Media
-- YouTube : [Aang-XD]()
-- Whatsapp : [089524163441]()
-- Facebook : [Aang.XD404]()
+`• Pulsa : 082261310817
 
+### Thank For Your Support
+
+
+### Contact Me
+- WhatsApp : [082261310817]()
+- Youtube : [Haeckerfb]()
+- Facebook : [Haeckerfb]()
+![python-logo-1](https://user-images.githubusercontent.com/92802033/153346252-b3d53c2e-d347-4f37-9e4a-e052a5e4641f.gif)
 ### Make Doang Kaga Follow Kontol !!
+
